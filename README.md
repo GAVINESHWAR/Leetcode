@@ -13,8 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GAVINESHWAR/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GAVINESHWAR/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GAVINESHWAR/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+## Sliding Window
+|  |
+| ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GAVINESHWAR/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 <!---LeetCode Topics End-->

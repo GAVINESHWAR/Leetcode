@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GAVINESHWAR/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1755-defuse-the-bomb](https://github.com/GAVINESHWAR/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GAVINESHWAR/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GAVINESHWAR/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -106,5 +108,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/GAVINESHWAR/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->

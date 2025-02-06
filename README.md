@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/GAVINESHWAR/Leetcode/tree/master/0605-can-place-flowers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GAVINESHWAR/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/GAVINESHWAR/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/GAVINESHWAR/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

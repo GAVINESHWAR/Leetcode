@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GAVINESHWAR/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1755-defuse-the-bomb](https://github.com/GAVINESHWAR/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GAVINESHWAR/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GAVINESHWAR/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GAVINESHWAR/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GAVINESHWAR/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/GAVINESHWAR/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GAVINESHWAR/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GAVINESHWAR/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |

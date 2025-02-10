@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/0812-rotate-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GAVINESHWAR/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/GAVINESHWAR/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GAVINESHWAR/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/GAVINESHWAR/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GAVINESHWAR/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/GAVINESHWAR/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GAVINESHWAR/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |

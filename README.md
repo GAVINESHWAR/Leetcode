@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/GAVINESHWAR/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/GAVINESHWAR/Leetcode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/GAVINESHWAR/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GAVINESHWAR/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/GAVINESHWAR/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/GAVINESHWAR/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/GAVINESHWAR/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GAVINESHWAR/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3447-clear-digits](https://github.com/GAVINESHWAR/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/GAVINESHWAR/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String Matching
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GAVINESHWAR/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3447-clear-digits](https://github.com/GAVINESHWAR/Leetcode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/GAVINESHWAR/Leetcode/tree/master/0605-can-place-flowers) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/GAVINESHWAR/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->

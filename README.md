@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/GAVINESHWAR/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/GAVINESHWAR/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/GAVINESHWAR/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/GAVINESHWAR/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/GAVINESHWAR/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GAVINESHWAR/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/GAVINESHWAR/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -157,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0392-is-subsequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

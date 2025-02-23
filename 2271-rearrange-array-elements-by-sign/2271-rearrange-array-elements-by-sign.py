@@ -1,13 +1,27 @@
 class Solution:
     def rearrangeArray(self, nums: List[int]) -> List[int]:
-        pos = 0
-        neg = 1
-        ans = [0]*len(nums)
+        pos = []
+        neg = []
         for i in range(len(nums)):
             if nums[i]>0:
-                ans[pos] = nums[i]
-                pos+=2
-            elif nums[i]<0:
-                ans[neg]=nums[i]
-                neg+=2
-        return ans
+                pos.append(nums[i])
+            else:
+                neg.append(nums[i])
+        idx1, idx2 =0, 0
+        idx = 0
+        while idx1<len(pos) and idx2<len(neg):
+            nums[idx] = pos[idx1]
+            idx+=1
+            nums[idx] = neg[idx2]
+            idx1+=1
+            idx2+=1
+            idx+=1
+        while idx1<len(pos):
+            nums[idx]=pos[idx1]
+            idx+=1
+            idx1+=1
+        while idx2<len(neg):
+            nums[idx] = neg[idx2]
+            idx+=1
+            idx2+=1
+        return nums

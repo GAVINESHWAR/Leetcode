@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GAVINESHWAR/Leetcode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/GAVINESHWAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/GAVINESHWAR/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/GAVINESHWAR/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -160,9 +161,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/GAVINESHWAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/GAVINESHWAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

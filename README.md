@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GAVINESHWAR/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/GAVINESHWAR/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/GAVINESHWAR/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/GAVINESHWAR/Leetcode/tree/master/0735-asteroid-collision) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GAVINESHWAR/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/GAVINESHWAR/Leetcode/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GAVINESHWAR/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/GAVINESHWAR/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/GAVINESHWAR/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/GAVINESHWAR/Leetcode/tree/master/0735-asteroid-collision) |
 | [3447-clear-digits](https://github.com/GAVINESHWAR/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |

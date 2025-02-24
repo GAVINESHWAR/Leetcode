@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GAVINESHWAR/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/GAVINESHWAR/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0503-next-greater-element-ii](https://github.com/GAVINESHWAR/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/GAVINESHWAR/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/GAVINESHWAR/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GAVINESHWAR/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/GAVINESHWAR/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [3447-clear-digits](https://github.com/GAVINESHWAR/Leetcode/tree/master/3447-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/GAVINESHWAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/GAVINESHWAR/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

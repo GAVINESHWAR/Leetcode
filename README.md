@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GAVINESHWAR/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/GAVINESHWAR/Leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/GAVINESHWAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/GAVINESHWAR/Leetcode/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GAVINESHWAR/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GAVINESHWAR/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/GAVINESHWAR/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/GAVINESHWAR/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
 ## Monotonic Stack

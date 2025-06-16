@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/GAVINESHWAR/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1755-defuse-the-bomb](https://github.com/GAVINESHWAR/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/GAVINESHWAR/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GAVINESHWAR/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/GAVINESHWAR/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |

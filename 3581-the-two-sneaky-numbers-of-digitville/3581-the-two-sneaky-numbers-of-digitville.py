@@ -1,13 +1,8 @@
 class Solution:
     def getSneakyNumbers(self, nums: List[int]) -> List[int]:
-        dic = {}
-        for i in nums:
-            if i not in dic:
-                dic[i] = 1
-            else:
-                dic[i] += 1
+        freq = Counter(nums)
         result = []
-        for i in dic:
-            if dic[i] == 2:
+        for i in freq:
+            if freq[i]==2:
                 result.append(i)
         return result

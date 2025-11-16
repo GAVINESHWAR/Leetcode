@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/GAVINESHWAR/Leetcode/tree/master/0392-is-subsequence) |
 | [0812-rotate-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/0812-rotate-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/GAVINESHWAR/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/GAVINESHWAR/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1894-merge-strings-alternately](https://github.com/GAVINESHWAR/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/GAVINESHWAR/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GAVINESHWAR/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -202,5 +203,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/GAVINESHWAR/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GAVINESHWAR/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->

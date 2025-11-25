@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GAVINESHWAR/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/GAVINESHWAR/Leetcode/tree/master/0169-majority-element) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/GAVINESHWAR/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GAVINESHWAR/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/GAVINESHWAR/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/GAVINESHWAR/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/GAVINESHWAR/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GAVINESHWAR/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 <!---LeetCode Topics End-->
